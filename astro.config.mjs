@@ -26,9 +26,9 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://hongtangmiao.github.io/blog/",
-	base: "/blog",
-	trailingSlash: "ignore",
+	site: process.env.GITHUB_PAGES ? "https://hongtangmiao.github.io/blog/" : "https://www.hongtangya.cn/",
+	base: process.env.GITHUB_PAGES ? "/blog" : "/",
+	trailingSlash: process.env.GITHUB_PAGES ? "ignore" : "always",
 	vite: {
 		preview: {
 			allowedHosts: [
