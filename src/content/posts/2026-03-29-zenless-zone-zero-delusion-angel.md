@@ -8,4 +8,4 @@ draft: false
 image: "/assets/images/zzz.png"
 ---
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115938833733639&bvid=BV11UBfBMEfQ&cid=35555770874&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe width="100%" height="468" src="//player.bilibili.com/player.html?isOutside=true&aid=115938833733639&bvid=BV11UBfBMEfQ&cid=35555770874&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
