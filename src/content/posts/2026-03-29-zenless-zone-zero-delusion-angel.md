@@ -1,7 +1,7 @@
 ---
-title: "绝区零 - 妄想天使"
+title: "妄想天使PV"
 published: 2026-03-29
-description: "绝区零 妄想天使 Bilibili 视频"
+description: "妄想天使PV"
 tags: ["2026", "绝区零"]
 category: "游戏"
 draft: false
